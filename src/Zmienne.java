@@ -25,5 +25,7 @@ public class Zmienne {
         char znak = '#';
         boolean sun = true; // false
 
+        // https://github.com/przemjan/czwartabgr32023
+
     }
 }
