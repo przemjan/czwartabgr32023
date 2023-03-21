@@ -1,3 +1,5 @@
+package Podstawy;
+
 public class Zmienne {
     public static void main(String[] args) {
 
@@ -27,7 +29,8 @@ public class Zmienne {
 
         // https://github.com/przemjan/czwartabgr32023
 
-        //  \\ubuckp/public/janisz zadania1
+        //  \\ubuckp\public\janisz\zadania1
+        // \\ubuckp\public\janisz\zadania2if
 
     }
 }
