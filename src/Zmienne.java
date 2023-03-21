@@ -27,5 +27,7 @@ public class Zmienne {
 
         // https://github.com/przemjan/czwartabgr32023
 
+        //  \\ubuckp/public/janisz zadania1
+
     }
 }
